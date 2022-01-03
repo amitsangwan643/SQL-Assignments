@@ -1,0 +1,14 @@
+WORKER_ID,FIRST_NAME,LAST_NAME,SALARY,JOINING_DATE,DEPARTMENT,emailId
+1,Monika,Arora,100000,"2014-02-20 09:00:00",HR,MonikaArora11@gmail.com
+2,Niharika,Verma,80000,"2014-06-11 09:00:00",Admin,13-Niharika_Verma@infosys.com
+3,Vishal,Singhal,300000,"2014-02-20 09:00:00",HR,VishalSinghal13@yahoo.com
+4,Amitabh,Singh,500000,"2014-02-20 09:00:00",Admin,AmitabhSingh12@infosys.com
+5,Vivek,Bhati,500000,"2014-06-11 09:00:00",Admin,Vivek_Bhati@infosys.com
+6,Vipul,Diwan,200000,"2014-06-11 09:00:00",Account,VipulDiwan10@infosys.com
+7,Satish,Kumar,75000,"2014-01-20 09:00:00",Account,SatishKumar11@gmail.com
+8,Geetika,Chauhan,90000,"2014-04-11 09:00:00",Admin,GeetikaChauhan14@yahoo.com
+9,Ravi,Sharma,250000,"2014-05-01 09:00:00",Account,RaviSharma-10@infosys.com
+10,Aman,Verman,350000,"2014-05-02 09:00:00",Sales,10AmanVerman@infosys.com
+11,Kriti,Pathak,270000,"2014-03-01 09:00:00",Sales,PathakKriti@infosys.com
+12,Karan,Raj,150000,"2014-06-03 09:00:00",Sales,KaranRaj@infosys.com
+13,Raman,Kamat,550000,"2014-02-01 09:00:00",Admin,Raman_kamat@infosys.com
